@@ -1,0 +1,1 @@
+/** Script to inject in the page **/
