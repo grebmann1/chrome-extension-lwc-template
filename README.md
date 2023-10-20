@@ -1,5 +1,7 @@
 # Chrome Extension LWC Template
 
+![Chrome Extension](./chrome-extension-lwc-template.png)
+
 ## Installation & Development
 
 1. Clone the repo.
