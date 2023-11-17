@@ -1,6 +1,7 @@
 # Chrome Extension LWC Template
 
-This repository serves as a comprehensive template for developing Chrome extensions using the Lightning Web Components (LWC) framework provided by Salesforce. Empower your Chrome browsing experience by leveraging the robust capabilities of LWC within the extension ecosystem.
+This repository serves as a comprehensive template for developing Chrome extensions using the Lightning Web Components (LWC) framework provided by Salesforce.
+Empower your Chrome browsing experience by leveraging the robust capabilities of LWC within the extension ecosystem.
 
 ![Chrome Extension](./chrome-extension-lwc-template.png)
 
